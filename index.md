@@ -412,6 +412,17 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<p>
+  The details of how to install the software follow. In summary, you will need:
+</p>
+<ul>
+  <li><a href="https://zoom.us/download" target="_blank">Zoom</a></li>
+  <li><a href="https://librarycarpentry.org/lc-open-refine/setup.html" target="_blank">OpenRefine</a> for Windows, macOS or Linux</li>
+  <li><a href="https://librarycarpentry.org/lc-shell/setup.html" target="_blank">Git for Windows</a> (includes Git Bash / Git GUI)
+    or <a href="https://git-scm.com/download/mac" target="_blank">Git for macOS</a></li>
+  <li>You must also <a href="https://github.com/" target="_blank">create a free GitHub.com username</a> if you do not already have one.</li>
+</ul>
+  
 {% comment %}
 For online workshops, the section below provides:
 - installation instructions for the Zoom client
